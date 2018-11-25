@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-Memory Analyzer 에서 Incoming/Outgoing References 에제 입니다.
+Memory Analyzer 에서 Incoming/Outgoing References 예제 입니다.
 
 [![에제1]({{"/assets/memoryAnalyzer_ex1.png" | absolute_url }})](/assets/memoryAnalyzer_ex1.png)
 
